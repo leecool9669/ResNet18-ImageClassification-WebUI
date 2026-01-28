@@ -1,0 +1,8 @@
+{
+  "model_name": "resnet18.a1_in1k",
+  "task": "image_classification",
+  "library": "timm",
+  "input_size": [224, 224],
+  "num_classes": 1000,
+  "license": "Apache-2.0"
+}
